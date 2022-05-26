@@ -9,8 +9,8 @@ spring:
 shiro-redis:
   enabled: true
   redis-manager:
-    host: 43.142.14.101:6666
-    password: fy2000..
+    host: 
+    password: 
 
 mybatis-plus:
   mapper-locations: classpath*:/mapper/**Mapper.xml
